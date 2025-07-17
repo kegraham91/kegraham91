@@ -6,14 +6,14 @@
 * I am a quick-starter and believe in delivering high-quality work through process automation and optimization
 
 ### :bulb: Core Competencies :bulb:
-* Tools: Excel, SQL, PowerBI, PowerQuery, Salesforce, Power Automate, Dataverse, Tableau, G-Suite
+* Tools: Excel, SQL, PowerBI, PowerQuery, Salesforce, Power Automate, Dataverse, Tableau, G-Suite, ChatGPT/AI/Copilot
 * Skills: data cleaning, data analysis, relational databases, dashboard design/development, machine learning, database management
 * Working Knowledge: systems analysis & design (SAD), blockchain technology, supply chain management, project management and Python
 
 ### :memo: What I'm Up To Currently :memo:
 * Hosting quarterly dashboard competitions with fellow data analysts in my area
 * Senior Data Analyst at Asurion - applying sales and analytics expertise to design and optimize sales incentive plans that drive performance and align with business goals. 
-* Location: Nashville, TN 
+* Location: Chicago, IL
 
 ### [Check out my projects here.](https://github.com/kegraham91/My-Projects/blob/main/README.md) 
 
